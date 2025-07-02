@@ -110,4 +110,4 @@ pyinstaller --onefile --windowed --add-data "ukr.png;." potujnomits.py
 
 Для зручності рекомендується працювати у віртуальному середовищі Python.
 
-Готово!
+# Готово!
